@@ -1,0 +1,23 @@
+.input {
+    display: flex;
+    padding: 1rem 1rem;
+    align-items: center;
+    gap:  0.5rem;
+    align-self: stretch;
+    border-radius:  0.5rem;
+    border: 1.5px solid #D2D6DA;
+    background: #FDFDFD;
+    color: #090A0B;
+}
+
+.inputMedium {
+    width: 400px;
+}
+
+.inputLarge {
+    width: 652px;
+}
+
+.inputSmall {
+    width: 189px;
+}
